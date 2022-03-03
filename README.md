@@ -33,7 +33,7 @@
 
 <br>
 
-### ***📫 View website booksell of me***
+### ***📫 Website booksell of me***
 * Click [**here**](https://staciabook-sell.web.app/) to see more.
 <br>
 
