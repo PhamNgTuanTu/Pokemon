@@ -1,46 +1,72 @@
-# Getting Started with Create React App
+![alt text](./images/header.svg)
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+<h3 align="center">Frontend Developer</h3>
 
-## Available Scripts
+<p align="center">
+  <em>
+    I love exploring new technologies. <b>In addition</b>, need to incorporate time to learn and absorb new technologies.
+  </em> 
+  <br>
+  <img src="./images/dog_2.gif" width="50" /> <b><i align="center">Thought : "Life is full of choices…choose wisely!”</i></b> <img src="./images/dog_1.gif" width="50" />
+</p>
 
-In the project directory, you can run:
+<br>
 
-### `npm start`
+<img align="right" width=200px height=200px alt="side_sticker" src="./images/profile_dev.svg" />
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+### <img src="./images/stats.gif" width="30px"> ***About Me***
 
-The page will reload if you make edits.\
-You will also see any lint errors in the console.
+* 🌱 I'm a web developer and I like this job a lot. 😍
+* 🌱 I want to learn and have a chance to develop myself. 😍
+* 📫 Feel free to contact me when you need, [**here**](https://www.facebook.com/phamngtuantu/), I would reply within seconds 😉
 
-### `npm test`
+<br>
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+### ***🛠 Tools & Technologies***
 
-### `npm run build`
+![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)&nbsp;
+![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
+![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
+![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
+![Typescript](https://img.shields.io/badge/-Typescript-05122A?style=flat&logo=typescript)&nbsp;
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+<br>
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+### ***📫 Review website booksell of me***
+* Click [**here**](https://staciabook-sell.web.app/) to see more.
+<br>
 
-### `npm run eject`
+### ***📊 GitHub Profile Status***
 
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=phamngtuantu&theme=dracula&show_icons=true&count_private=true">
+  <br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=phamngtuantu&theme=dracula&layout=&langs_count=5">
+<br>
+<b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
+</p>
 
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+<details>
+  <summary>⚡ Recent GitHub Activity</summary>
+  <br>
+   <img alt="Yashita's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=phamngtuantu&custom_title=phamngtuantu's%20Contribution%20Graph&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" />
+  <br/>
+</details>
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
+![divider](./images/divider.gif)
 
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
+<p align="center">
+  <i>Let's connect and chat! Open to anything under the sun.</i>
 
-## Learn More
+  <p align="center">
+    	<code><a href="https://www.facebook.com/phamngtuantu/"><img width="30px" src="./images/facebook.png" title="Facebook"/></a></code>
+	<code><a href="mailto:phamngtuantu@gmail.com"><img width="30px" src="./images/gmail.png" title="Gmail"/></a></code>
+  </p>
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+  <p align="center">
+      <img src="https://komarev.com/ghpvc/?username=phamngtuantu&label=Profile+Views" alt="phamngtuantu" />
+  </p>
+</p>
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+![alt text](./images/footer.svg)
